@@ -61,8 +61,8 @@ const NavigationNonAuth = () => {
       <StyledNavigationList $align={ALIGN.center} />
       <StyledNavigationList $align={ALIGN.right}>
         <StyledNavigationItem>
-          <StyledLink>
-            <Link to={ROUTES.LANDING}>Landing</Link>
+          <StyledLink href={ROUTES.LANDING} to={ROUTES.LANDING}>
+            Landing
           </StyledLink>
         </StyledNavigationItem>
       </StyledNavigationList>
