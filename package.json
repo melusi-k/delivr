@@ -5,12 +5,20 @@
   "dependencies": {
     "baseui": "9.52.0",
     "dotenv": "^8.2.0",
+    "firebase": "7.8.1",
     "react": "16.12.0",
+    "react-bootstrap": "1.0.0-beta.16",
     "react-dom": "16.12.0",
+    "react-landing-page": "2.0.2",
     "react-map-gl": "5.2.2",
     "react-router-dom": "5.1.2",
+    "rebass": "4.0.7",
+    "recompose": "0.30.0",
     "semantic-ui-css": "2.4.1",
+    "semantic-ui-react": "0.88.2",
+    "styled-components": "5.0.1",
     "styletron": "3.0.4",
+    "styletron-engine-atomic": "1.4.5",
     "styletron-react": "5.2.7"
   },
   "scripts": {

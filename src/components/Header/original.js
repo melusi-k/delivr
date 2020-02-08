@@ -1,10 +1,8 @@
-import React, { PureComponent } from 'react';
-import { Link } from 'react-router-dom';
-import * as ROUTES from '../../constants/routes';
-import './Header.css';
+import React, { PureComponent } from "react";
+import { Link } from "react-router-dom";
+import * as ROUTES from "../../constants/routes";
 
 class Header extends PureComponent {
-
   render() {
     return (
       <header className="header">
