@@ -2,7 +2,7 @@ import React from "react";
 import { Icon, Step } from "semantic-ui-react";
 import * as ROUTES from "../../constants/routes";
 import { Link } from "react-router-dom";
-import { Flex, Small } from "rebass";
+//import { Flex, Small } from "rebass";
 import "../../App.css";
 
 const App = () => (
