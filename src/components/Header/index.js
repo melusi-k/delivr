@@ -28,18 +28,18 @@ const NavigationAuth = () => {
       <StyledNavigationList $align={ALIGN.center} />
       <StyledNavigationList $align={ALIGN.right}>
         <StyledNavigationItem>
-          <StyledLink>
-            <Link to={ROUTES.HOME}>Home</Link>
+          <StyledLink href={ROUTES.HOME} to={ROUTES.HOME}>
+            Home
           </StyledLink>
         </StyledNavigationItem>
         <StyledNavigationItem>
-          <StyledLink>
-            <Link to={ROUTES.ACCOUNT}>Account</Link>
+          <StyledLink href={ROUTES.ACCOUNT} to={ROUTES.ACCOUNT}>
+            Account
           </StyledLink>
         </StyledNavigationItem>
         <StyledNavigationItem>
-          <StyledLink>
-            <Link to={ROUTES.ADMIN}>History</Link>
+          <StyledLink href={ROUTES.ADMIN} to={ROUTES.ADMIN}>
+            History
           </StyledLink>
         </StyledNavigationItem>
       </StyledNavigationList>
