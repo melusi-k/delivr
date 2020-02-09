@@ -6,4 +6,8 @@
 
 [![Edit adoring-shaw-z4bw5](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/adoring-shaw-z4bw5?autoresize=1&fontsize=14&hidenavigation=1&previewwindow=tests&theme=dark&view=editor)
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/melusi-k/delivr)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
