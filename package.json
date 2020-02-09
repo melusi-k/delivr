@@ -1,7 +1,12 @@
 {
   "name": "delivr",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melusi-k/delivr"
+  },
+  "license": "GPL-3.0",
   "dependencies": {
     "babel-jest": "24.9.0",
     "baseui": "9.52.0",
