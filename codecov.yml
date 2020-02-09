@@ -3,6 +3,10 @@ coverage:
   round: down
   range: "70...100"
 
+  parsers: 
+    javascript:
+      enable_partials: no
+
   status:
     project: no
     patch: yes
