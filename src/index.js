@@ -5,7 +5,7 @@ import App from "./components/App";
 import Firebase, { FirebaseContext } from "./components/Firebase";
 import { Client as Styletron } from "styletron-engine-atomic";
 import { Provider as StyletronProvider } from "styletron-react";
-import { DarkTheme, ThemeProvider /*styled*/ } from "baseui";
+import { lightThemePrimitives, ThemeProvider /*styled*/ } from "baseui";
 
 const engine = new Styletron();
 //const Centered = styled("div", {
@@ -17,7 +17,7 @@ const engine = new Styletron();
 
 ReactDOM.render(
   <StyletronProvider value={engine}>
-    <ThemeProvider theme={DarkTheme}>
+    <ThemeProvider theme={lightThemePrimitives}>
       <FirebaseContext.Provider value={new Firebase()}>
         <App />
       </FirebaseContext.Provider>
