@@ -10,4 +10,6 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/melusi-k/delivr)
 
+[![codecov](https://codecov.io/gh/melusi-k/delivr/branch/master/graph/badge.svg)](https://codecov.io/gh/melusi-k/delivr)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
