@@ -1,0 +1,19 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - uses: codecov/codecov-action@v1
+      with:
+        token: "5a7527de-c1d0-49e9-b3d7-35b9dba5c628" #required
+        file: ./coverage.xml #optional
+        flags: unittests #optional
+        name: codecov-umbrella #optional
+        yml: ./codecov.yml #optional
+        fail_ci_if_error: true #optional (default = false)
