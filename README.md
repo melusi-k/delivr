@@ -4,4 +4,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/abb4525d-5ae6-4452-ad14-0db1bd750acd/deploy-status)](https://app.netlify.com/sites/heuristic-brahmagupta-f163fe/deploys)
 
+[![Edit adoring-shaw-z4bw5](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/adoring-shaw-z4bw5?autoresize=1&fontsize=14&hidenavigation=1&previewwindow=tests&theme=dark&view=editor)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
