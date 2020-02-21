@@ -29,7 +29,7 @@
     "serve": "11.3.0",
     "styled-components": "5.0.1",
     "styletron": "3.0.4",
-    "styletron-engine-atomic": "1.4.5",
+    "styletron-engine-atomic": "1.4.6",
     "styletron-react": "5.2.7",
     "typescript": "3.7.5"
   },
